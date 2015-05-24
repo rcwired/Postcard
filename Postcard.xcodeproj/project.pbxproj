@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		DE038BD01B12185800439AF9 /* AlbertEinsteinStamp.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DE038BCF1B12185800439AF9 /* AlbertEinsteinStamp.jpg */; };
 		DE0DFBFA1B0FD18800E1FA57 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE0DFBF91B0FD18800E1FA57 /* AppDelegate.swift */; };
 		DE0DFBFC1B0FD18800E1FA57 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE0DFBFB1B0FD18800E1FA57 /* ViewController.swift */; };
 		DE0DFBFF1B0FD18800E1FA57 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DE0DFBFD1B0FD18800E1FA57 /* Main.storyboard */; };
@@ -27,6 +28,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		DE038BCF1B12185800439AF9 /* AlbertEinsteinStamp.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = AlbertEinsteinStamp.jpg; sourceTree = "<group>"; };
 		DE0DFBF41B0FD18800E1FA57 /* Postcard.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Postcard.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DE0DFBF81B0FD18800E1FA57 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		DE0DFBF91B0FD18800E1FA57 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -92,6 +94,7 @@
 		DE0DFBF71B0FD18800E1FA57 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				DE038BCF1B12185800439AF9 /* AlbertEinsteinStamp.jpg */,
 				DE0DFC191B0FD67A00E1FA57 /* SagradaFamilia.jpeg */,
 				DE0DFBF81B0FD18800E1FA57 /* Info.plist */,
 			);
@@ -197,6 +200,7 @@
 			files = (
 				DE0DFBFF1B0FD18800E1FA57 /* Main.storyboard in Resources */,
 				DE0DFC1A1B0FD67A00E1FA57 /* SagradaFamilia.jpeg in Resources */,
+				DE038BD01B12185800439AF9 /* AlbertEinsteinStamp.jpg in Resources */,
 				DE0DFC041B0FD18800E1FA57 /* LaunchScreen.xib in Resources */,
 				DE0DFC011B0FD18800E1FA57 /* Images.xcassets in Resources */,
 			);
@@ -415,6 +419,7 @@
 				DE0DFC151B0FD18900E1FA57 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		DE0DFC161B0FD18900E1FA57 /* Build configuration list for PBXNativeTarget "PostcardTests" */ = {
 			isa = XCConfigurationList;
@@ -423,6 +428,7 @@
 				DE0DFC181B0FD18900E1FA57 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
