@@ -13,6 +13,7 @@
 		DE0DFC011B0FD18800E1FA57 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DE0DFC001B0FD18800E1FA57 /* Images.xcassets */; };
 		DE0DFC041B0FD18800E1FA57 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = DE0DFC021B0FD18800E1FA57 /* LaunchScreen.xib */; };
 		DE0DFC101B0FD18900E1FA57 /* PostcardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE0DFC0F1B0FD18900E1FA57 /* PostcardTests.swift */; };
+		DE0DFC1A1B0FD67A00E1FA57 /* SagradaFamilia.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = DE0DFC191B0FD67A00E1FA57 /* SagradaFamilia.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		DE0DFC091B0FD18900E1FA57 /* PostcardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PostcardTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		DE0DFC0E1B0FD18900E1FA57 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		DE0DFC0F1B0FD18900E1FA57 /* PostcardTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostcardTests.swift; sourceTree = "<group>"; };
+		DE0DFC191B0FD67A00E1FA57 /* SagradaFamilia.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SagradaFamilia.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +92,7 @@
 		DE0DFBF71B0FD18800E1FA57 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				DE0DFC191B0FD67A00E1FA57 /* SagradaFamilia.jpeg */,
 				DE0DFBF81B0FD18800E1FA57 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -193,6 +196,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				DE0DFBFF1B0FD18800E1FA57 /* Main.storyboard in Resources */,
+				DE0DFC1A1B0FD67A00E1FA57 /* SagradaFamilia.jpeg in Resources */,
 				DE0DFC041B0FD18800E1FA57 /* LaunchScreen.xib in Resources */,
 				DE0DFC011B0FD18800E1FA57 /* Images.xcassets in Resources */,
 			);
