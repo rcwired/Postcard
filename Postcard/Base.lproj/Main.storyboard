@@ -36,7 +36,11 @@
                         </variation>
                     </view>
                     <navigationItem key="navigationItem" id="iIb-w9-hy2">
-                        <barButtonItem key="rightBarButtonItem" title="View Message" id="zDS-2u-sY5"/>
+                        <barButtonItem key="rightBarButtonItem" title="View Message" id="zDS-2u-sY5">
+                            <connections>
+                                <segue destination="BYZ-38-t0r" kind="show" id="VLw-RT-7TH"/>
+                            </connections>
+                        </barButtonItem>
                     </navigationItem>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="xt5-0g-t69" userLabel="First Responder" sceneMemberID="firstResponder"/>
